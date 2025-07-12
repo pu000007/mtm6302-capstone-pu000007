@@ -22,7 +22,11 @@ and the heart icon become red color. Users can also delete the picture from "My
 favorite" page by click the heart icon on the picure.
 
 
-
+==Prototype report== 
+First I created the HTML structure for the home page and added CSS to make it 
+close to the mockup. Then I added a media query to make it responsive. Later 
+I created the gallery page using the CSS grid and the demo page for the picture 
+when user click confirm at the home page.
 
 
 
